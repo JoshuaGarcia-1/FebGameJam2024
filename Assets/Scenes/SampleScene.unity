@@ -588,7 +588,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 76c392e42b5098c458856cdf6ecaaaa1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_FirstSelected: {fileID: 0}
+  m_FirstSelected: {fileID: 6825468561234741269, guid: 9d8a6303c40e24145934ac4bf106673b, type: 3}
   m_sendNavigationEvents: 1
   m_DragThreshold: 10
 --- !u!4 &577382449
