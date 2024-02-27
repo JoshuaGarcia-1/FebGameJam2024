@@ -200,3 +200,9 @@ Received Import Request.
   path: Packages/com.unity.nuget.newtonsoft-json/package.json
   artifactKey: Guid(f8d4e5c2f2df25449ae8c391afbe5114) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Packages/com.unity.nuget.newtonsoft-json/package.json using Guid(f8d4e5c2f2df25449ae8c391afbe5114) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0c218fbffcdcb093e7ceeada5090097') in 0.003057 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1949.158341 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16af67a570076b46f997e4cb1daa3b8d') in 0.014146 seconds 
